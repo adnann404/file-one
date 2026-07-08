@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.nav-logo {
+    font-size: 36px;
+}
+.nav-ul{
+    list-style: none;
+    display: flex;
+    gap: 36px;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 24px 72px 24px 72px;
+    align-items: center;
+}
+body {
+    font-family: Arial, sans-serif;
+}        
