@@ -13,12 +13,16 @@ a {
     list-style: none;
     display: flex;
     gap: 36px;
+
+
 }
 nav {
     display: flex;
     justify-content: space-between;
     margin: 24px 72px 24px 72px;
     align-items: center;
+    border-bottom: 1px solid rgb(61, 61, 61);
+    padding-bottom: 16px;
 }
 body {
     font-family: Arial, sans-serif;
